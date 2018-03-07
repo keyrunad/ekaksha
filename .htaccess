@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^ekaksha\.keyrunad\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.ekaksha\.keyrunad\.com$
+RewriteRule ^/?$ "http\:\/\/keyrunad\.com\/ekaksha" [R=301,L]
+

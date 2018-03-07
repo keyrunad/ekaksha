@@ -1,0 +1,102 @@
+A: 4
+A-: 3.7
+B+: 3.3
+B: 3.0
+B-: 2.7
+C+: 2.3
+C: 2
+C-: 1.7
+
+8th Sem Target SGPA: 
+MIS: 4*3 (Need to get this)
+Android: 4*3 (Need to get this)
+AI: A 4*3
+Project: A 4*5
+56
+SGPA:
+Total Credits: 14
+
+7th Sem:
+PL/SQL: A 4*3
+INTERN: A 4*3
+SIM: A 4*3
+E-COMM: A 4*3
+LINUX: B+ 3.3*3
+57.9
+SGPA: 3.86
+Total Credits: 15
+
+6th Sem:
+Web II: A 4*3
+DC&CN: A 4*3
+OM: A 4*3
+STAT: A 4*3
+ECO: A 4*3
+Project: A 4*3
+72
+SGPA: 4
+Total Credits: 18
+
+5th Sem:
+CA: A 4*3
+JAVA: B 3*3
+WEB: B+ 3.3*3
+MFCS: A 4*3
+SE: A 4*3
+54.9
+SGPA: 3.66
+Total Credits: 15
+
+4th Sem:
+NM: A- 3.7*3
+VB: B 3*3
+DBMS: A- 3.7*3
+OS: A- 3.7*3
+CG: A- 3.7*4
+Project: A 4*2
+65.1
+SGPA: 3.61
+Total Credits: 18
+
+3rd Sem:
+SAD: B- 2.7*3
+OOP: A 4*3
+DSA: A- 3.7*3
+MP: A 4*3
+ACC: B 3*3
+52.2
+SGPA: 3.48
+Total Credits: 15
+
+2nd Sem:
+FEE: B 3*3 (Need to get this)
+MATH: B- 2.7*3
+BCOM: A 4*3
+ACC: A- 3.7*3
+Prog: B+ 3.3*3
+Project: A 4*1
+53.2
+SGPA: 3.38
+Total Credits: 16
+
+1st Sem: 
+Eng: A- 3.7*3
+PLT: A 4*3
+FUN: B+ 3.3*3
+MATH: A- 3.7*3
+DIGITAL: A- 3.7*3
+55.2
+SGPA:3.68
+Total Credits: 15
+
+Total Credits of 8 semesters: 126
+Total SGPA*Total Credits/Sem=410.5
+
+3.68
+3.48
+3.61
+3.66
+3.38 (need to get atleast B in FEE)
+4.00
+3.86
+4.00 (need to get this)
